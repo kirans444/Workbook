@@ -1,103 +1,154 @@
 # Week 1 Excel Poject
-# 📊 Excel Data Analysis Project | Data Technician Bootcamp
+# 📊 Excel Data Analysis Portfolio Project
 
 ## Overview
-This project was completed as part of a Data Technician Bootcamp and focused on analysing retail sales and bike sales datasets using Microsoft Excel. The objective was to clean, transform, analyse, and visualise business data to uncover trends, support decision-making, and develop practical spreadsheet skills used in industry.
+
+As part of my Data Technician Bootcamp, I completed a hands-on Excel project focused on analysing retail sales and bike sales datasets to uncover trends, evaluate performance, and communicate findings through data visualisation.
+
+Rather than treating Excel as simply a spreadsheet tool, this project focused on using data to answer business questions, identify patterns, and transform raw information into meaningful insights.
 
 ---
 
 ## 🎯 Project Objectives
-- Analyse retail and bike sales data
-- Apply Excel formulas to automate calculations
-- Create dynamic reports and dashboards
-- Identify sales trends and customer insights
-- Present findings through charts and visualisations
+
+* Analyse retail sales transactions using Excel
+* Explore customer demographics and purchasing behaviour
+* Create business summaries using Pivot Tables
+* Apply formulas and functions to automate calculations
+* Build visualisations to support data-driven decision making
+* Compare different chart types to determine the most effective way to communicate insights
 
 ---
 
-## 🛠️ Skills & Techniques Demonstrated
+## 🛠 Excel Skills Demonstrated
 
-### Data Cleaning & Preparation
-✔ Filtering datasets to isolate relevant records  
-✔ Sorting data to identify trends and rankings  
-✔ Creating Unique IDs for improved data organisation  
-✔ Working with date fields and extracting time-based information  
+### Data Preparation & Exploration
 
-### Excel Formulas & Functions
-Used a variety of Excel functions including:
+* Sorting and filtering datasets to identify trends
+* Restoring original dataset order using transaction identifiers
+* Reviewing large datasets for analysis readiness
+* Working with structured retail sales and bike sales data
 
-| Function | Purpose |
-|-----------|----------|
-| `SUM()` | Calculate total sales and revenue |
-| `SUMIF()` | Aggregate values based on specific criteria |
-| `AVERAGE()` | Determine average sales performance |
-| `VLOOKUP()` | Retrieve related information across datasets |
-| `MONTH()` | Extract month from date fields |
-| `YEAR()` | Extract year from date fields |
-| `DATE()` | Construct and manipulate date values |
-| `SWITCH()` | Categorise and group data efficiently |
+### Formulas & Functions
 
-### Data Analysis
-✔ Sales performance analysis  
-✔ Product category comparisons  
-✔ Customer purchasing trends  
-✔ Regional sales comparisons  
-✔ Revenue and quantity analysis  
+Used a range of Excel functions including:
 
-### Pivot Tables & Reporting
-- Created Pivot Tables to summarise large datasets
-- Analysed sales by product, region, and customer segments
-- Generated dynamic reports for business insights
-- Used Pivot Table filtering and grouping functionality
+```excel
+SUM()
+SUMIF()
+AVERAGE()
+DATE()
+MONTH()
+YEAR()
+VLOOKUP()
+SWITCH()
+```
 
-### Data Visualisation
-Developed charts to communicate findings clearly, including:
+These functions were used to:
 
-📈 Sales Trend Charts  
-📊 Product Performance Charts  
-🥧 Category Distribution Charts  
-📉 Comparative Sales Analysis Visualisations  
+* Calculate total and average commissions
+* Categorise sales performance
+* Extract and analyse date-based trends
+* Perform data lookups across datasets
+* Automate repetitive calculations
+* Generate business metrics for reporting
 
 ---
 
-## 📂 Datasets Used
+## 📈 Pivot Table Analysis
+
+Created Pivot Tables to summarise and analyse data from multiple perspectives.
 
 ### Retail Sales Dataset
-- Product information
-- Sales transactions
-- Revenue analysis
-- Regional performance metrics
+
+Analysed:
+
+* Product category performance
+* Sales volumes
+* Customer demographics
+* Commission trends
+* Transaction activity
 
 ### Bike Sales Dataset
-- Customer demographics
-- Purchase behaviour analysis
-- Income and occupation insights
-- Sales segmentation reporting
+
+Used Pivot Tables to investigate:
+
+* Customer age groups
+* Country-level sales performance
+* Gender purchasing trends
+* Profitability by market
+
+### Key Findings
+
+🔹 Customers aged **35–64** represented a significant customer segment within Germany.
+
+🔹 The **United States** emerged as the strongest-performing market across multiple categories.
+
+🔹 Female customers generated a large proportion of sales activity within the analysed dataset.
+
+🔹 Australian male customer groups showed comparatively lower profitability than other regions analysed.
 
 ---
 
-## 📈 Key Outcomes
-- Improved proficiency in Excel data analysis techniques
-- Applied business-focused analytical thinking
-- Developed reporting and dashboard creation skills
-- Strengthened understanding of data-driven decision making
-- Gained hands-on experience with real-world sales datasets
+## 🔄 Business Logic with SWITCH
+
+Applied the `SWITCH()` function to categorise products based on sales volume:
+
+| Sales Volume | Category |
+| ------------ | -------- |
+| > 600        | High     |
+| 300–600      | Medium   |
+| < 300        | Low      |
+
+This exercise introduced conditional business rules and demonstrated how Excel can automate classification tasks commonly used in reporting environments.
 
 ---
 
-## 🚀 Technologies Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Visualisations
-- Data Filtering & Sorting
-- Lookup Functions
-- Conditional Logic Functions
-- Spreadsheet Reporting
+## 📊 Data Visualisation
+
+Built and compared multiple chart types to communicate findings effectively.
+
+Visualisations included:
+
+* Revenue by age group
+* Product revenue by country
+* Profitability comparisons
+* Market performance summaries
+
+Part of the project involved evaluating which visualisations best communicated the data. Through this analysis, line charts proved more effective than pie charts for identifying revenue trends across age groups because they allowed comparisons to be made more clearly.
 
 ---
 
-## 📚 Learning Outcomes
-This project strengthened my ability to transform raw data into meaningful insights through data cleaning, formula-based analysis, pivot tables, and visual reporting. It provided practical experience in using Excel as a business intelligence and reporting tool within a data-driven environment.
+## 💡 What I Learned
+
+This project strengthened my understanding of how Excel is used within real business environments for:
+
+* Data cleaning
+* Data exploration
+* Reporting
+* Trend analysis
+* Performance monitoring
+* Business intelligence
+
+One lesson that stood out was that effective analysis starts with asking the right questions. Whether reviewing retail transactions or bike sales performance, the goal wasn't simply to calculate numbers—it was to understand the story behind them and present insights that support better decision-making.
 
 ---
-*Completed as part of a Data Technician Bootcamp to develop core data analysis, reporting, and visualisation skills.*
+
+## 🚀 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Filtering & Sorting
+* Data Visualisation
+* Business Reporting
+* Formula Development
+* Sales Data Analysis
+* Customer Demographic Analysis
+* Data Technician Bootcamp Projects
+
+---
+
+### Repository Focus
+
+*"Using Excel to move beyond spreadsheets and uncover the story hidden within the data."*
