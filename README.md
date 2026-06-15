@@ -59,6 +59,9 @@ These functions were used to:
 
 Created Pivot Tables to summarise and analyse data from multiple perspectives.
 
+<img width="673" height="263" alt="image" src="https://github.com/user-attachments/assets/2b8edbe1-21d4-413f-9670-d03cf9544b48" />
+
+
 ### Retail Sales Dataset
 
 Analysed:
@@ -68,6 +71,9 @@ Analysed:
 * Customer demographics
 * Commission trends
 * Transaction activity
+  
+<img width="409" height="307" alt="image" src="https://github.com/user-attachments/assets/11638b38-e1d6-4751-a401-067ff1d8df2d" />
+
 
 ### Bike Sales Dataset
 
@@ -77,6 +83,9 @@ Used Pivot Tables to investigate:
 * Country-level sales performance
 * Gender purchasing trends
 * Profitability by market
+
+<img width="541" height="333" alt="image" src="https://github.com/user-attachments/assets/bf77133c-57dd-44f5-a867-268b8d73ce57" />
+
 
 ### Key Findings
 
