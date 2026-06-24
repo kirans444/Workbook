@@ -1,7 +1,7 @@
 # 🚴 Global Retail & E-Commerce Performance Analysis (Excel)
 
 ## 📌 Project Background & Context
-**Role:** Associate Data Analyst (Data Technician Bootcamp Client Project)  
+**Role:** Associate Data Analyst (Data Analyst Bootcamp Client Project)  
 **Stakeholder Audience:** Regional Sales Directors  
 
 **Context:** 
